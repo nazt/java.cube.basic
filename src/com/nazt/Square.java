@@ -14,4 +14,11 @@ public class Square implements Shape {
 		return 0;
 	}
 
+	@Override
+	public void printArea() {
+		// TODO Auto-generated method stub
+		System.out.println("Square printArea() = ");
+
+	}
+
 }
