@@ -12,6 +12,7 @@ public class Main {
 		a1.introduce();
 		nat.introduce();
 
+		// Polymorphism
 		Shape[] shapes = new Shape[7];
 		shapes[0] = new Circle();
 		shapes[1] = new Square();
